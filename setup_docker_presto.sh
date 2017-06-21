@@ -1,3 +1,4 @@
+#https://hub.docker.com/r/zhicwu/presto/
 sudo docker pull zhicwu/presto:latest
 sudo git clone https://github.com/zhicwu/docker-presto.git
 sudo cd docker-presto
