@@ -1,4 +1,6 @@
-#https://hub.docker.com/r/zhicwu/presto/
+# https://hub.docker.com/r/zhicwu/presto/
+# https://prestodb.io/
+# http://diethardsteiner.github.io/big/data/2016/02/14/Presto.html
 sudo docker pull zhicwu/presto:latest
 sudo git clone https://github.com/zhicwu/docker-presto.git
 sudo cd docker-presto
